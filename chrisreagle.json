@@ -5,7 +5,7 @@
     "image": "",
     "email": "chris@chrisreagle.com",
     "phone": "(724) 730-3844",
-    "summary": "Software Engineer with 5+ years of experience building scalable, resilient backend systems in high-throughput environments. Currently contributing to McDonald’s global ordering platform, driving performance, reliability, and clean code practices. Passionate about mentoring, architecting scalable systems, and using technology to elevate customer experience in fast-paced, agile environments.",
+    "summary": "Software Engineer with 6+ years of experience building scalable, resilient backend systems in high-throughput environments. Currently contributing to McDonald’s global ordering platform, driving performance, reliability, and clean code practices. Passionate about mentoring, architecting scalable systems, and using technology to elevate customer experience in fast-paced, agile environments.",
     "location": {
       "city": "Pittsburgh",
       "countryCode": "US",
@@ -24,7 +24,7 @@
       "position": "Software Engineer II",
       "url": "https://corporate.mcdonalds.com/",
       "startDate": "2024-11-12",
-      "summary": "Currently a member of the FryKids squad, responsible for backend systems powering ordering across McDonald’s digital platforms. This includes managing the full lifecycle of an order — from initial placement to fulfillment — with a focus on accuracy, reliability, and performance at scale.",
+      "summary": "Currently a member of the FryKids squad, responsible for the backend systems that power ordering across McDonald's digital platforms. This includes managing the full lifecycle of an order — from initial placement through to fulfillment — ensuring accuracy, reliability, and performance at scale.",
       "highlights": [
         "Supported Performance testing environment, proactively identifying bottlenecks and implementing optimizations that improved reliability",
         "Designed and implemented scalable, modular testing repositories with standardized mocks and folder structures, significantly improving test consistency and enabling faster, and independent testing",
@@ -77,7 +77,7 @@
       "summary": "Delivered full-stack software solutions and technical expertise across a diverse range of client industries and applications.",
       "highlights": [
         "Independently designed and developed a custom ERP system, collaborating directly with the client to gather requirements and deliver solutions supporting daily business operations.",
-        "Built a robust ETL pipeline to consolidate and migrate data from multiple large-scale databases, implementing distributed architecture using merge replication.",
+        "Built a robust ETL pipeline to consolidate and migrate data from multiple large-scale databases, implementing distributed infrastructure using merge replication.",
         "Maintained and enhanced an internal backup system deployed on Windows Server, ensuring system reliability and operational continuity.",
         "Provided ongoing maintenance and support for a range of legacy and modern client applications, ensuring stability and performance."
       ]
