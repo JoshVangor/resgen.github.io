@@ -5,7 +5,7 @@
     "image": "",
     "email": "chris@chrisreagle.com",
     "phone": "(724) 730-3844",
-    "summary": "Software Engineer with 6+ years of experience building scalable, resilient backend systems in high-throughput environments. Currently contributing to McDonald's global ordering platform, driving performance, reliability, and clean code practices. Passionate about mentoring, architecting scalable systems, and using technology to elevate customer experience in a fast-paced, agile environment.",
+    "summary": "Software Engineer with 5+ years of experience building scalable, resilient backend systems in high-throughput environments. Currently contributing to McDonald’s global ordering platform, driving performance, reliability, and clean code practices. Passionate about mentoring, architecting scalable systems, and using technology to elevate customer experience in fast-paced, agile environments.",
     "location": {
       "city": "Pittsburgh",
       "countryCode": "US",
@@ -24,7 +24,7 @@
       "position": "Software Engineer II",
       "url": "https://corporate.mcdonalds.com/",
       "startDate": "2024-11-12",
-      "summary": "Currently a member of the FryKids squad, responsible for the backend systems that power ordering across McDonald's digital platforms. This includes managing the full lifecycle of an order — from initial placement through to fulfillment — ensuring accuracy, reliability, and performance at scale.",
+      "summary": "Currently a member of the FryKids squad, responsible for backend systems powering ordering across McDonald’s digital platforms. This includes managing the full lifecycle of an order — from initial placement to fulfillment — with a focus on accuracy, reliability, and performance at scale.",
       "highlights": [
         "Supported Performance testing environment, proactively identifying bottlenecks and implementing optimizations that improved reliability",
         "Designed and implemented scalable, modular testing repositories with standardized mocks and folder structures, significantly improving test consistency and enabling faster, and independent testing",
@@ -43,29 +43,29 @@
       "url": "https://loyalhealth.com",
       "startDate": "2021-05-01",
       "endDate": "2024-09-03",
-      "summary": "Member of a team that created and supported a chat bot for health systems, provided internal CI/CD support, and provided skunkworks projects when required.",
+      "summary": "Engineered and maintained scalable chatbot and live chat solutions for healthcare systems, supported CI/CD operations, and led high-impact internal projects. Delivered systems capable of handling 1,000+ messages/second with peak loads of 77,446 messages/hour and up to 500 API requests/second.",
       "highlights": [
-        "Created a service utilizing Chat GPT and Agents to provide a chat service to patients using scraped data from a hospital system after a RAG lookup",
-        "Worked directly with internal customer service team to reduce the time they spent supporting customers, building services to allow bulk importing, custom data migrations. Saved hundreds of man hours for each feature",
-        "Lead initiative for redeveloping dialog system to allow for quicker setup and onboarding of new employees, 50% decrease in ramp up time for new hires by decreasing complexity. Contained a full user validation system containing 50+ validation rules to ensure that the system was being set up correctly",
-        "Integrated with Third Party API's to perform actions such as query patient information, and collate symptoms into a diagnosis, examples such as Epic, Cerner, Infermedica",
-        "Created models using a feedforward neural network and local entity library to predict user intent, utilized BERT as our model",
-        "Created and Supported a Live Chat service which utilized Signal R for websocket management to provide P2P and bot communication",
-        "Integrated with GBM to provide bot integration into google listings",
-        "Managed multiple service environment communicating through internal API's on kubernetes, utilizing the pod scaling to be able to react to changes in demand and decreasing downtime by having hot replicas",
-        "Built a service to consume Kafka messages and pull data for Health Risk Assessment forms from a common form service",
-        "Maintained a python based service that was using tensorflow to act as a worker service training requested custom intent models from a queue",
-        "Utilized worker patterns to queue and complete work async, such as informational logging and cleaning up sockets",
-        "Monitored and Optimized slow SQL Queries using azure sql server and execution plans to improve our response time from chat bot, reports, and data dashboards",
-        "Utilized Redis as an internal cache layer to reduce strain on database and improve speed of retrieval, create distributed caache, and backplane for signal r",
-        "Covered business logic with testing to provide full coverage with unit tests using XUnit, and integration tests where needed, all tests were required to run during build pipeline to prevent against unintended bugs",
-        "Used Checkly to run SLA test suites using playwright to ensure we were meeting uptime requirements, and first alert to any issues that would impact SLA agreements",
-        "Created a NPM package using rollup to share UI components between multiple projects",
-        "Created and Maintained Azure DevOps pipelines utilizing YAML configurations based on shared templates",
-        "Built internal application for performing database migrations during CI/CD Releases utilizing on DBUP",
-        "Used Helm Charts to template deployments, this allowed for standardization and time saving when building out configurations",
-        "Created versioned docker images pushed into a container repository to be ran in multiple environments",
-        "Worked on an agile team to create plans and execute in an iterative process"
+        "Developed a patient-facing chat service using ChatGPT and agent-based architecture, incorporating RAG lookups on hospital data.",
+        "Collaborated with customer service teams to build tools for bulk importing and custom data migrations, saving hundreds of labor hours per feature.",
+        "Redesigned the dialogue management system, reducing onboarding time for new hires by 50% through simplification and a 50+ rule validation engine.",
+        "Integrated with third-party APIs including Epic, Cerner, and Infermedica to enable patient data retrieval and symptom-to-diagnosis workflows.",
+        "Built intent prediction models using feedforward neural networks and BERT, supported by a local entity library to improve NLU.",
+        "Designed and maintained a SignalR-based live chat system supporting real-time P2P and bot communication.",
+        "Integrated chatbot services into Google Business Messages (GBM) for improved patient engagement.",
+        "Managed distributed microservices on Kubernetes with autoscaling and hot replicas to ensure availability during load spikes.",
+        "Developed Kafka consumers for health risk assessment form processing from a centralized service.",
+        "Maintained a TensorFlow-based Python service for training custom intent models asynchronously from a queue.",
+        "Implemented worker patterns for async operations such as logging and socket cleanup to enhance performance.",
+        "Monitored and optimized SQL queries using Azure SQL execution plans, reducing latency across chatbot, reports, and dashboards.",
+        "Used Redis as a distributed cache and SignalR backplane, reducing DB load and improving response times.",
+        "Achieved full unit and integration test coverage using XUnit, with automated execution in CI pipelines to prevent regressions.",
+        "Used Checkly and Playwright to automate SLA monitoring and proactively detect production-impacting issues.",
+        "Developed and published a shared UI component library as an NPM package using Rollup.",
+        "Built and maintained Azure DevOps pipelines using modular YAML templates for consistent CI/CD processes.",
+        "Created a DbUp-powered internal tool for automating database migrations during deployments.",
+        "Standardized Kubernetes deployments using Helm charts, improving configuration consistency and speeding up setup.",
+        "Published versioned Docker images to a container registry for multi-environment deployments.",
+        "Contributed to Agile ceremonies and iterative development in a collaborative engineering team."
       ]
     },
     {
@@ -74,12 +74,12 @@
       "url": "https://sierraexperts.com",
       "startDate": "2019-10-01",
       "endDate": "2021-05-01",
-      "summary": "Provided expertise for many different types of companies and products.",
+      "summary": "Delivered full-stack software solutions and technical expertise across a diverse range of client industries and applications.",
       "highlights": [
-        "Designed and Created an ERP system for client, worked individually with client to create specs and gather information while building out a system to support their day to day operations",
-        "Created a ETL process to transfer data from several large database, combine the data and remap the relationships, set the new database up as a distributed database using merge replication between locations",
-        "Supported an internal backup system for running as a service on windows server machines",
-        "Provided support for existing applications for customers"
+        "Independently designed and developed a custom ERP system, collaborating directly with the client to gather requirements and deliver solutions supporting daily business operations.",
+        "Built a robust ETL pipeline to consolidate and migrate data from multiple large-scale databases, implementing distributed architecture using merge replication.",
+        "Maintained and enhanced an internal backup system deployed on Windows Server, ensuring system reliability and operational continuity.",
+        "Provided ongoing maintenance and support for a range of legacy and modern client applications, ensuring stability and performance."
       ]
     },
     {
@@ -115,10 +115,10 @@
       "keywords": [
         "C#",
         "Python",
-        ".Net",
+        ".NET",
         "Redis",
         "SQL",
-        "Chat GPT",
+        "ChatGPT",
         "NLP",
         "LLM",
         "DynamoDB"
@@ -129,7 +129,7 @@
       "keywords": [
         "HTML",
         "JavaScript",
-        "Typescript",
+        "TypeScript",
         "CSS"
       ]
     },
@@ -142,7 +142,6 @@
         "Helm",
         "Docker",
         "CI/CD",
-        "Helm",
         "Kafka"
       ]
     },
@@ -150,6 +149,7 @@
       "name": "Testing & QA",
       "keywords": [
         "XUnit",
+        "NUnit",
         "Playwright",
         "Checkly",
         "Mocking",
