@@ -1,5 +1,4 @@
 {
-  "type": "module",
   "scripts": {
     "deploy-resume": "bash scripts/deploy.sh && bash scripts/pushgit.sh"
   },
