@@ -24,31 +24,79 @@
   "skills": [
     {
       "name": "Cybersecurity Tools",
-      "keywords": ["Splunk (ES)", "Wireshark", "Metasploit", "Nmap", "Nessus", "Burp Suite", "Snort", "Tenable"]
+      "keywords": [
+        "Splunk (ES)",
+        "Wireshark",
+        "Metasploit",
+        "Nmap",
+        "Nessus",
+        "Burp Suite",
+        "Snort",
+        "Tenable"
+      ]
     },
     {
       "name": "Frameworks & Compliance",
-      "keywords": ["CIA Triad", "NIST CSF", "ISO 27001", "MITRE ATT&CK", "SOC 2", "CIS Benchmarks", "HIPAA"]
+      "keywords": [
+        "CIA Triad",
+        "NIST CSF",
+        "ISO 27001",
+        "MITRE ATT&CK",
+        "SOC 2",
+        "CIS Benchmarks",
+        "HIPAA"
+      ]
     },
     {
       "name": "Digital Forensics & Legal",
-      "keywords": ["Chain of Custody", "Evidence Preservation", "Law Enforcement Liaison", "Legal Holds"]
+      "keywords": [
+        "Chain of Custody",
+        "Evidence Preservation",
+        "Law Enforcement Liaison",
+        "Legal Holds"
+      ]
     },
     {
       "name": "Networking & Infrastructure",
-      "keywords": ["Cisco (ASA, Firepower, Meraki)", "VLANs", "TCP/IP", "VOIP (Dialpad)", "Active Directory", "Group Policy", "Virtualization"]
+      "keywords": [
+        "Cisco (ASA, Firepower, Meraki)",
+        "VLANs",
+        "TCP/IP",
+        "VOIP (Dialpad)",
+        "Active Directory",
+        "Group Policy",
+        "Virtualization"
+      ]
     },
     {
       "name": "Cloud/OS",
-      "keywords": ["Microsoft 365", "AWS (IAM, Security Hub)", "Azure (Sentinel)", "Windows Server", "Dell Hyper-V", "PowerShell", "Bash", "Linux"]
+      "keywords": [
+        "Microsoft 365",
+        "AWS (IAM, Security Hub)",
+        "Azure (Sentinel)",
+        "Windows Server",
+        "Dell Hyper-V",
+        "PowerShell",
+        "Bash",
+        "Linux"
+      ]
     },
     {
       "name": "Physical Security",
-      "keywords": ["Security Cameras (CCTV)", "Badge Access Systems", "Intrusion Detection Systems (IDS)", "Access Control"]
+      "keywords": [
+        "Security Cameras (CCTV)",
+        "Badge Access Systems",
+        "Intrusion Detection Systems (IDS)",
+        "Access Control"
+      ]
     },
     {
       "name": "Programming",
-      "keywords": ["Python (Scripting, Automation)", "SQL", "Electronic Medical Record (EMR) Platforms"]
+      "keywords": [
+        "Python (Scripting, Automation)",
+        "SQL",
+        "Electronic Medical Record (EMR) Platforms"
+      ]
     }
   ],
   "work": [
@@ -71,6 +119,32 @@
         "Provided IT consulting and strategic security guidance to partner agencies.",
         "Led creation and enforcement of security policies and delivered security awareness training for 200+ staff, reducing human error risk."
       ]
+    },
+    {
+      "name": "The Beer Barn",
+      "position": "Store Manager",
+      "location": "Bradford, PA",
+      "startDate": "2016-08",
+      "endDate": "2022-03",
+      "summary": "Managed and led a sales team, improving customer experience and operational efficiency",
+      "highlights": [
+        "Directed a sales team of 8 employees, implementing process improvements that enhanced customer service metrics and optimized operational workflows",
+        "Improved data flow and reporting by serving as the primary communication bridge between user-level staff and management, ensuring clear requirements and feedback loops.",
+        "Applied critical thinking and root cause analysis to diagnose and resolve complex operational bottlenecks, ensuring business continuity and efficiency."
+      ]
+    },
+    {
+      "name": "Custom Gaming PC Builds",
+      "position": "Independent/Freelanncer",
+      "location": "Remote",
+      "startDate": "2012",
+      "endDate": "Present",
+      "summary": "Managed the full life cycle of custom system builds for clients, encompassing component selection, procurement, integration, and performance testing of high-end hardware (CPUs, GPUs, Motherboards, RAM).",
+      "highlights": [
+        "Executed advanced diagnostics and root cause analysis to isolate and resolve complex hardware and software conflicts, minimizing client downtime and ensuring system stability.",
+        "Provided end-user technical support and training, including advising clients on cybersecurity fundamentals, data backup protocols, and best practices for system maintenance and longevity.",
+        "Conducted full operating system deployment (Windows/Linux) and configured customized software stacks, including driver management, partitioning, and BIOS optimization."
+      ]
     }
   ],
   "education": [
@@ -79,16 +153,21 @@
       "area": "Cybersecurity Professional Boot Camp",
       "studyType": "Certificate",
       "endDate": "2021"
+    },
+    {
+      "institution": "University of Pittsburgh",
+      "area": "Criminal Justice",
+      "studyType": "Bachelor of Science"
     }
   ],
   "certificates": [
     {
       "name": "CompTIA Security+",
-      "date": "2025"
+      "date": "2025-08"
     },
     {
       "name": "Google Cybersecurity Specialization",
-      "date": "2025"
+      "date": "2025-08"
     }
   ]
 }
